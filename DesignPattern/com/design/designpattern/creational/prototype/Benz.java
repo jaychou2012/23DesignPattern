@@ -4,6 +4,6 @@ public class Benz extends Car {
 
     @Override
     void run() {
-        System.out.println("Inside Benz:run() method");
+        System.out.println("Inside SmallCar:run() method");
     }
 }

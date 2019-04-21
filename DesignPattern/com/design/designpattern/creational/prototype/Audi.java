@@ -4,6 +4,6 @@ public class Audi extends Car {
 
     @Override
     void run() {
-        System.out.println("Inside Audi:run() method");
+        System.out.println("Inside BigCar:run() method");
     }
 }
